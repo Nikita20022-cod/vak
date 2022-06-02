@@ -1,0 +1,227 @@
+/* font-family: "RobotoRegular"; */
+@font-face {
+    font-family: "RobotoRegular";
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/RobotoRegular/RobotoRegular.eot");
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/RobotoRegular/RobotoRegular.eot?")format("embedded-opentype"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/RobotoRegular/RobotoRegular.woff") format("woff"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/RobotoRegular/RobotoRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "RobotoLight"; */
+@font-face {
+    font-family: "RobotoLight";
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/RobotoLight/RobotoLight.eot");
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/RobotoLight/RobotoLight.eot?")format("embedded-opentype"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/RobotoLight/RobotoLight.woff") format("woff"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/RobotoLight/RobotoLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "RobotoMedium"; */
+@font-face {
+    font-family: "RobotoMedium";
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/RobotoMedium/RobotoMedium.eot");
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/RobotoMedium/RobotoMedium.eot?")format("embedded-opentype"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/RobotoMedium/RobotoMedium.woff") format("woff"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/RobotoMedium/RobotoMedium.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "RobotoBold"; */
+@font-face {
+    font-family: "RobotoBold";
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/RobotoBold/RobotoBold.eot");
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/RobotoBold/RobotoBold.eot?")format("embedded-opentype"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/RobotoBold/RobotoBold.woff") format("woff"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/RobotoBold/RobotoBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "RobotoRegular";
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/RobotoRegular/RobotoRegular.eot");
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/RobotoRegular/RobotoRegular.eot?") format("embedded-opentype"),
+             url("https://lumos22.com.ru/hr_prodazhi/fonts/RobotoRegular/RobotoRegular.woff") format("woff"),
+             url("https://lumos22.com.ru/hr_prodazhi/fonts/RobotoRegular/RobotoRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/* Код для подключения шрифта в /css/stylename.css */
+/* font-family: "SourceSansProRegular"; */
+@font-face {
+    font-family: "SourceSansProRegular";
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/SourceSansProRegular/SourceSansProRegular.eot");
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/SourceSansProRegular/SourceSansProRegular.eot?")format("embedded-opentype"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/SourceSansProRegular/SourceSansProRegular.woff") format("woff"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/SourceSansProRegular/SourceSansProRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "SourceSansProLight"; */
+@font-face {
+    font-family: "SourceSansProLight";
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/SourceSansProLight/SourceSansProLight.eot");
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/SourceSansProLight/SourceSansProLight.eot?")format("embedded-opentype"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/SourceSansProLight/SourceSansProLight.woff") format("woff"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/SourceSansProLight/SourceSansProLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "SourceSansProBold"; */
+@font-face {
+    font-family: "SourceSansProBold";
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/SourceSansProBold/SourceSansProBold.eot");
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/SourceSansProBold/SourceSansProBold.eot?")format("embedded-opentype"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/SourceSansProBold/SourceSansProBold.woff") format("woff"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/SourceSansProBold/SourceSansProBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/* font-family: "12089"; */
+@font-face {
+    font-family: "12089";
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/12089.otf");
+    font-style: normal;
+    font-weight: normal;
+}
+/*Lato*/
+@font-face {
+    font-family: "latoregular";
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/Lato/latoregular.eot");
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/Lato/latoregular.eot?")format("embedded-opentype"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/Lato/latoregular.woff") format("woff"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/Lato/latoregular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "latomedium";
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/Lato/latomedium.eot");
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/Lato/latomedium.eot?")format("embedded-opentype"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/Lato/latomedium.woff") format("woff"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/Lato/latomedium.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "latoitalic";
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/Lato/latoitalic.eot");
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/Lato/latoitalic.eot?")format("embedded-opentype"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/Lato/latoitalic.woff") format("woff"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/Lato/latoitalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "latolight";
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/Lato/latolight.eot");
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/Lato/latolight.eot?")format("embedded-opentype"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/Lato/latolight.woff") format("woff"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/Lato/latolight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "latobold";
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/Lato/latobold.eot");
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/Lato/latobold.eot?")format("embedded-opentype"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/Lato/latobold.woff") format("woff"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/Lato/latobold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "latoblack";
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/Lato/latoblack.eot");
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/Lato/latoblack.eot?")format("embedded-opentype"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/Lato/latoblack.woff") format("woff"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/Lato/latoblack.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/*GoodVibesPro*/
+@font-face {
+  font-family: "GoodVibesPro";
+  src: url('https://lumos22.com.ru/hr_prodazhi/fonts/GoodVibesPro/GoodVibesPro.eot') format('embedded-opentype');
+  src: url('https://lumos22.com.ru/hr_prodazhi/fonts/GoodVibesPro/GoodVibesPro.eot?') format('embedded-opentype'), url("https://lumos22.com.ru/hr_prodazhi/fonts/GoodVibesPro/GoodVibesPro.ttf") format("truetype"), url("https://lumos22.com.ru/hr_prodazhi/fonts/GoodVibesPro/GoodVibesPro.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+/*china*/
+@font-face {
+    font-family: "china";
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/china_cyr.eot");
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/china_cyr.eot?")format("embedded-opentype"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/china_cyr.woff") format("woff"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/china_cyr.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/*ProximaNova*/
+@font-face {
+    font-family: "ProximaNova";
+    src: url('https://lumos22.com.ru/hr_prodazhi/fonts/ProximaNova/ProximaNova-Regular.eot') format('embedded-opentype');
+    src: url('https://lumos22.com.ru/hr_prodazhi/fonts/ProximaNova/ProximaNova-Regular.eot?') format('embedded-opentype'), url("https://lumos22.com.ru/hr_prodazhi/fonts/ProximaNova/ProximaNova-Regular.woff") format("woff"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/ProximaNova/ProximaNova-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "ProximaNova-Bold";
+    src: url('https://lumos22.com.ru/hr_prodazhi/fonts/ProximaNova/ProximaNova-Bold.eot') format('embedded-opentype');
+    src: url('https://lumos22.com.ru/hr_prodazhi/fonts/ProximaNova/ProximaNova-Bold.eot?') format('embedded-opentype'), url("https://lumos22.com.ru/hr_prodazhi/fonts/ProximaNova/ProximaNova-Bold.woff") format("woff"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/ProximaNova/ProximaNova-Bold.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "ProximaNova-Black";
+    src: url('https://lumos22.com.ru/hr_prodazhi/fonts/ProximaNova/ProximaNova-Black.eot') format('embedded-opentype');
+    src: url('https://lumos22.com.ru/hr_prodazhi/fonts/ProximaNova/ProximaNova-Black.eot?') format('embedded-opentype'), url("https://lumos22.com.ru/hr_prodazhi/fonts/ProximaNova/ProximaNova-Black.woff") format("woff"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/ProximaNova/ProximaNova-Black.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "BonjourMonAmiRUS";
+    src: url('https://lumos22.com.ru/hr_prodazhi/fonts/Bonjour/BonjourMonAmiRUS.eot') format('embedded-opentype');
+    src: url('https://lumos22.com.ru/hr_prodazhi/fonts/Bonjour/BonjourMonAmiRUS.eot?') format('embedded-opentype'), url("https://lumos22.com.ru/hr_prodazhi/fonts/Bonjour/BonjourMonAmiRUS.woff") format("woff"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/Bonjour/BonjourMonAmiRUS.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+/* font-family: "RobotoRegular"; */
+@font-face {
+    font-family: "GilroyRegular";
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/GilroyRegular/Gilroy-Regular.eot");
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/GilroyRegular/Gilroy-Regular.eot?")format("embedded-opentype"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/GilroyRegular/Gilroy-Regular.woff") format("woff"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/GilroyRegular/Gilroy-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "GilroyBlack";
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/GilroyBlack/Gilroy-Black.eot");
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/GilroyBlack/Gilroy-Black.eot?")format("embedded-opentype"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/GilroyBlack/Gilroy-Black.woff") format("woff"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/GilroyBlack/Gilroy-Black.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "GilroyBold";
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/GilroyBold/Gilroy-Bold.eot");
+    src: url("https://lumos22.com.ru/hr_prodazhi/fonts/GilroyBold/Gilroy-Bold.eot?")format("embedded-opentype"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/GilroyBold/Gilroy-Bold.woff") format("woff"),
+    url("https://lumos22.com.ru/hr_prodazhi/fonts/GilroyBold/Gilroy-Bold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
